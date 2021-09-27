@@ -7,6 +7,8 @@ Git
 
 2.Learn Git Branch : https://learngitbranching.js.org/
 
+3.Git权威指南 : https://github.com/scott2014/books/blob/master/Git/Git%E6%9D%83%E5%A8%81%E6%8C%87%E5%8D%97.pdf
+
 
 Makefile
 
